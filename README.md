@@ -9,7 +9,7 @@
 实时获取屏幕截图，使用图片包去匹配，获取点击位置，通过Robot类实现屏幕模拟点击。
 
 #程序入口
-DmoeFrame.java
+SwingDemo.java
 
 #主要代码
 YysFrame.java,ImageUtils.java
